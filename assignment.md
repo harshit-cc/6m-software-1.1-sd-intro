@@ -23,13 +23,7 @@ Content of the CSS -
     border: gray solid 2px;
     border-radius: 10px;
 }
-div {
-    margin: 50px;
-}
-user agent stylesheet
-div {
-    display: block;
-}
+
 ```
 
 4. What is the css selector of the fourth element?
