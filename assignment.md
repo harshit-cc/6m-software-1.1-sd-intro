@@ -40,6 +40,7 @@ div:nth-child(6) {
 ```
 
 5. What is the code you use to keep the blue box within the purple?
+```
 There is div element with class as parent, which is styled as purle border 8px. And within this div element, there is another div element with class as child, which is styled as blue border 8px. This is how blue box is within purple.
 ```
 
